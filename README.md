@@ -1,0 +1,2 @@
+# UHFScannerPlugin
+UHFScannerPlugin Ionic Capacitor
